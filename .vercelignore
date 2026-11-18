@@ -2,6 +2,8 @@
 .env.*
 .git
 node_modules
+vendor
+bootstrap/cache/*.php
 supabase
 tests
 storage/logs/*
